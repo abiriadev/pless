@@ -1,0 +1,3 @@
+# Paperless
+
+Modern `less` alternative
